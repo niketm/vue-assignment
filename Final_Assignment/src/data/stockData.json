@@ -1,0 +1,6 @@
+[{"id":1,"name": "Reliance" , "price":1},
+{"id":2,"name": "IBM" , "price":2},
+{"id":3,"name": "Infosys" , "price":4},
+{"id":4,"name": "Tata Motors" , "price":3},
+{"id":5,"name": "MRF" , "price":7},
+{"id":6,"name": "SBIN" , "price":10}]
